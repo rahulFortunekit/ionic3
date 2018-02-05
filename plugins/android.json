@@ -1,0 +1,37 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "com.applozic.phonegap": {
+      "PACKAGE_NAME": "com.ionicframework.ionicwelcome766043"
+    },
+    "phonegap-plugin-push": {
+      "FCM_VERSION": "11.6.2",
+      "PACKAGE_NAME": "com.chat.applozic"
+    }
+  },
+  "dependent_plugins": {}
+}
