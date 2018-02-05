@@ -1,0 +1,333 @@
+02-05 18:31:54.608 28989-28989/? I/art: Late-enabling -Xcheck:jni
+02-05 18:31:54.618 28989-28996/? I/art: Debugger is no longer active
+02-05 18:31:54.618 28989-28996/? I/art: Starting a blocking GC Instrumentation
+02-05 18:31:54.636 28989-28989/? W/ActivityThread: Application com.chat.applozic is waiting for the debugger on port 8100...
+02-05 18:31:54.636 28989-28989/? I/System.out: Sending WAIT chunk
+02-05 18:31:56.648 28989-28996/com.chat.applozic I/art: Debugger is active
+02-05 18:31:56.838 28989-28989/com.chat.applozic I/System.out: Debugger has connected
+02-05 18:31:56.838 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:57.039 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:57.239 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:57.440 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:57.640 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:57.841 28989-28989/com.chat.applozic I/System.out: waiting for debugger to settle...
+02-05 18:31:58.042 28989-28989/com.chat.applozic I/System.out: debugger has settled (1319)
+02-05 18:31:58.424 28989-28989/com.chat.applozic W/System: ClassLoader referenced unknown path: /data/app/com.chat.applozic-2/lib/arm
+02-05 18:31:58.463 28989-28989/com.chat.applozic D/FirebaseApp: com.google.firebase.auth.FirebaseAuth is not linked. Skipping initialization.
+02-05 18:31:58.479 28989-28989/com.chat.applozic D/FirebaseApp: com.google.firebase.crash.FirebaseCrash is not linked. Skipping initialization.
+02-05 18:31:58.559 28989-28989/com.chat.applozic V/FA: Cancelling job. JobID: -243686115
+02-05 18:31:58.565 28989-28989/com.chat.applozic V/FA: Registered activity lifecycle callback
+02-05 18:31:58.567 28989-28989/com.chat.applozic I/FirebaseInitProvider: FirebaseApp initialization successful
+02-05 18:31:58.569 28989-28989/com.chat.applozic I/InstantRun: starting instant run server: is main process
+02-05 18:31:58.590 28989-29059/com.chat.applozic V/FA: Collection enabled
+02-05 18:31:58.590 28989-29059/com.chat.applozic V/FA: App package, google app id: com.chat.applozic, 1:950783427743:android:c55d5327e2c86b3c
+02-05 18:31:58.593 28989-29059/com.chat.applozic I/FA: App measurement is starting up, version: 11720
+02-05 18:31:58.593 28989-29059/com.chat.applozic I/FA: To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+02-05 18:31:58.593 28989-29059/com.chat.applozic I/FA: To enable faster debug mode event logging run:
+                                                         adb shell setprop debug.firebase.analytics.app com.chat.applozic
+02-05 18:31:58.593 28989-29059/com.chat.applozic D/FA: Debug-level message logging enabled
+02-05 18:31:58.616 28989-29059/com.chat.applozic V/FA: Persisting first open: 1517835718509
+02-05 18:31:58.630 28989-28989/com.chat.applozic I/CordovaLog: Changing log level to DEBUG(3)
+02-05 18:31:58.630 28989-28989/com.chat.applozic I/CordovaActivity: Apache Cordova native platform version 6.4.0 is starting
+02-05 18:31:58.630 28989-28989/com.chat.applozic D/CordovaActivity: CordovaActivity.onCreate()
+02-05 18:31:58.631 28989-28989/com.chat.applozic V/FA: onActivityCreated
+02-05 18:31:58.695 28989-28989/com.chat.applozic I/WebViewFactory: Loading com.android.chrome version 64.0.3282.137 (code 328213702)
+02-05 18:31:58.741 28989-28989/com.chat.applozic I/cr_LibraryLoader: Time to load native libraries: 6 ms (timestamps 2268-2274)
+02-05 18:31:58.763 28989-28989/com.chat.applozic I/chromium: [INFO:library_loader_hooks.cc(36)] Chromium logging enabled: level = 0, default verbosity = 0
+02-05 18:31:58.764 28989-28989/com.chat.applozic I/cr_LibraryLoader: Expected native library version number "64.0.3282.137", actual native library version number "64.0.3282.137"
+02-05 18:31:58.810 28989-28989/com.chat.applozic I/cr_BrowserStartup: Initializing chromium process, singleProcess=true
+02-05 18:31:58.812 28989-28989/com.chat.applozic I/cr_base: Android Locale: en_US requires .pak files: [en-GB.pak, en-US.pak]
+02-05 18:31:58.842 28989-28989/com.chat.applozic I/Adreno: QUALCOMM build                   : bc479b6, I15255e4b4a
+                                                           Build Date                       : 02/22/17
+                                                           OpenGL ES Shader Compiler Version: XE031.09.00.03
+                                                           Local Branch                     : 
+                                                           Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.5.5.R1.07.00.00.269.019
+                                                           Remote Branch                    : NONE
+                                                           Reconstruct Branch               : NOTHING
+02-05 18:31:58.886 28989-29087/com.chat.applozic E/chromium: [ERROR:instance.cc(49)] Unable to locate service manifest for metrics
+02-05 18:31:58.886 28989-29087/com.chat.applozic E/chromium: [ERROR:service_manager.cc(890)] Failed to resolve service name: metrics
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art: Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.db>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/webkit/RenderProcessGoneDetail;
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.webview.chromium.WebViewChromium.init(java.util.Map, boolean) (WebViewChromium.java:42)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int, java.util.Map, boolean) (WebView.java:636)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int) (WebView.java:572)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int) (WebView.java:555)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet) (WebView.java:542)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context, android.util.AttributeSet) (SystemWebView.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context) (SystemWebView.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebViewEngine.<init>(android.content.Context, org.apache.cordova.CordovaPreferences) (SystemWebViewEngine.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance0!(java.lang.Object[]) (Constructor.java:-2)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance(java.lang.Object[]) (Constructor.java:430)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaWebViewImpl.createEngine(android.content.Context, org.apache.cordova.CordovaPreferences) (CordovaWebViewImpl.java:79)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaActivity.makeWebViewEngine() (CordovaActivity.java:206)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebView org.apache.cordova.CordovaActivity.makeWebView() (CordovaActivity.java:202)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.init() (CordovaActivity.java:146)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.loadUrl(java.lang.String) (CordovaActivity.java:224)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.chat.applozic.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:39)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6672)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1140)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2612)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2724)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1473)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.os.Looper.loop() (Looper.java:154)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6123)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:867)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:757)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art: Caused by: java.lang.ClassNotFoundException: Didn't find class "android.webkit.RenderProcessGoneDetail" on path: DexPathList[[zip file "/data/app/com.android.chrome-1/base.apk"],nativeLibraryDirectories=[/data/app/com.android.chrome-1/lib/arm, /data/app/com.android.chrome-1/base.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.webview.chromium.WebViewChromium.init(java.util.Map, boolean) (WebViewChromium.java:42)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int, java.util.Map, boolean) (WebView.java:636)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int) (WebView.java:572)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int) (WebView.java:555)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet) (WebView.java:542)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context, android.util.AttributeSet) (SystemWebView.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context) (SystemWebView.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebViewEngine.<init>(android.content.Context, org.apache.cordova.CordovaPreferences) (SystemWebViewEngine.java:0)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance0!(java.lang.Object[]) (Constructor.java:-2)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance(java.lang.Object[]) (Constructor.java:430)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaWebViewImpl.createEngine(android.content.Context, org.apache.cordova.CordovaPreferences) (CordovaWebViewImpl.java:79)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaActivity.makeWebViewEngine() (CordovaActivity.java:206)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebView org.apache.cordova.CordovaActivity.makeWebView() (CordovaActivity.java:202)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.init() (CordovaActivity.java:146)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.loadUrl(java.lang.String) (CordovaActivity.java:224)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.chat.applozic.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:39)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6672)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1140)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2612)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2724)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1473)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.os.Looper.loop() (Looper.java:154)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6123)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:867)
+02-05 18:31:58.919 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:757)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art: Rejecting re-init on previously-failed class java.lang.Class<com.android.webview.chromium.hb>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/webkit/SafeBrowsingResponse;
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.android.webview.chromium.WebViewChromium.init(java.util.Map, boolean) (WebViewChromium.java:42)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int, java.util.Map, boolean) (WebView.java:636)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int) (WebView.java:572)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int) (WebView.java:555)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet) (WebView.java:542)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context, android.util.AttributeSet) (SystemWebView.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context) (SystemWebView.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebViewEngine.<init>(android.content.Context, org.apache.cordova.CordovaPreferences) (SystemWebViewEngine.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance0!(java.lang.Object[]) (Constructor.java:-2)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance(java.lang.Object[]) (Constructor.java:430)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaWebViewImpl.createEngine(android.content.Context, org.apache.cordova.CordovaPreferences) (CordovaWebViewImpl.java:79)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaActivity.makeWebViewEngine() (CordovaActivity.java:206)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebView org.apache.cordova.CordovaActivity.makeWebView() (CordovaActivity.java:202)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.init() (CordovaActivity.java:146)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.loadUrl(java.lang.String) (CordovaActivity.java:224)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.chat.applozic.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:39)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6672)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1140)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2612)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2724)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1473)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.os.Looper.loop() (Looper.java:154)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6123)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:867)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:757)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art: Caused by: java.lang.ClassNotFoundException: Didn't find class "android.webkit.SafeBrowsingResponse" on path: DexPathList[[zip file "/data/app/com.android.chrome-1/base.apk"],nativeLibraryDirectories=[/data/app/com.android.chrome-1/lib/arm, /data/app/com.android.chrome-1/base.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.android.webview.chromium.WebViewChromium.init(java.util.Map, boolean) (WebViewChromium.java:42)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int, java.util.Map, boolean) (WebView.java:636)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int, int) (WebView.java:572)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet, int) (WebView.java:555)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.webkit.WebView.<init>(android.content.Context, android.util.AttributeSet) (WebView.java:542)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context, android.util.AttributeSet) (SystemWebView.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebView.<init>(android.content.Context) (SystemWebView.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.engine.SystemWebViewEngine.<init>(android.content.Context, org.apache.cordova.CordovaPreferences) (SystemWebViewEngine.java:0)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance0!(java.lang.Object[]) (Constructor.java:-2)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Constructor.newInstance(java.lang.Object[]) (Constructor.java:430)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaWebViewImpl.createEngine(android.content.Context, org.apache.cordova.CordovaPreferences) (CordovaWebViewImpl.java:79)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebViewEngine org.apache.cordova.CordovaActivity.makeWebViewEngine() (CordovaActivity.java:206)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at org.apache.cordova.CordovaWebView org.apache.cordova.CordovaActivity.makeWebView() (CordovaActivity.java:202)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.init() (CordovaActivity.java:146)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void org.apache.cordova.CordovaActivity.loadUrl(java.lang.String) (CordovaActivity.java:224)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void com.chat.applozic.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:39)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6672)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1140)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2612)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2724)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1473)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.os.Looper.loop() (Looper.java:154)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6123)
+02-05 18:31:58.922 28989-28989/com.chat.applozic I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+02-05 18:31:58.923 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:867)
+02-05 18:31:58.923 28989-28989/com.chat.applozic I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:757)
+02-05 18:31:59.014 28989-28989/com.chat.applozic D/SystemWebViewEngine: CordovaWebView is running on device made by: motorola
+02-05 18:31:59.020 28989-29100/com.chat.applozic E/chromium: [ERROR:devtools_http_handler.cc(249)] Cannot start http server for devtools. Stop devtools.
+02-05 18:31:59.028 28989-28989/com.chat.applozic D/PluginManager: init()
+02-05 18:31:59.173 28989-28994/com.chat.applozic I/art: Do partial code cache collection, code=27KB, data=30KB
+02-05 18:31:59.174 28989-28994/com.chat.applozic I/art: After code cache collection, code=27KB, data=30KB
+02-05 18:31:59.174 28989-28994/com.chat.applozic I/art: Increasing code cache capacity to 128KB
+02-05 18:31:59.203 28989-28989/com.chat.applozic D/CordovaWebViewImpl: >>> loadUrl(file:///android_asset/www/index.html)
+02-05 18:31:59.225 28989-29105/com.chat.applozic E/libEGL: validate_display:99 error 3008 (EGL_BAD_DISPLAY)
+02-05 18:31:59.228 28989-29089/com.chat.applozic W/cr_media: Requires BLUETOOTH permission
+02-05 18:31:59.248 28989-28989/com.chat.applozic D/CordovaActivity: Started the activity.
+02-05 18:31:59.256 28989-28989/com.chat.applozic D/CordovaActivity: Resumed the activity.
+02-05 18:31:59.304 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706433 for video/avc
+02-05 18:31:59.304 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706434 for video/avc
+02-05 18:31:59.307 28989-29102/com.chat.applozic I/OpenGLRenderer: Initialized EGL, version 1.4
+02-05 18:31:59.307 28989-29102/com.chat.applozic D/OpenGLRenderer: Swap behavior 1
+02-05 18:31:59.329 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706433 for video/avc
+02-05 18:31:59.329 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706434 for video/avc
+02-05 18:31:59.333 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706433 for video/avc
+02-05 18:31:59.333 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile 2130706434 for video/avc
+02-05 18:31:59.337 28989-29105/com.chat.applozic W/VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+02-05 18:31:59.397 28989-29105/com.chat.applozic I/VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+02-05 18:31:59.412 28989-28989/com.chat.applozic D/CordovaWebViewImpl: onPageDidNavigate(file:///android_asset/www/index.html)
+02-05 18:31:59.427 28989-28994/com.chat.applozic I/art: Do partial code cache collection, code=43KB, data=55KB
+02-05 18:31:59.428 28989-28994/com.chat.applozic I/art: After code cache collection, code=43KB, data=55KB
+02-05 18:31:59.428 28989-28994/com.chat.applozic I/art: Increasing code cache capacity to 256KB
+02-05 18:31:59.534 28989-29087/com.chat.applozic E/chromium: [ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::BudgetService exposed by: content_browser
+02-05 18:31:59.599 28989-28989/com.chat.applozic D/JsMessageQueue: Set native->JS mode to EvalBridgeMode
+02-05 18:31:59.605 28989-29106/com.chat.applozic E/chromium: [ERROR:BudgetService.cpp(167)] Unable to connect to the Mojo BudgetService.
+02-05 18:31:59.606 28989-29122/com.chat.applozic W/cr_CrashFileManager: /data/user/0/com.chat.applozic/cache/WebView/Crash Reports does not exist or is not a directory
+02-05 18:32:01.351 28989-29059/com.chat.applozic V/FA: Checking service availability
+02-05 18:32:01.371 28989-29059/com.chat.applozic V/FA: Service available
+02-05 18:32:01.371 28989-29059/com.chat.applozic V/FA: Setting useService: true
+02-05 18:32:01.384 28989-29059/com.chat.applozic V/FA: Connecting to remote service
+02-05 18:32:01.400 28989-29059/com.chat.applozic V/FA: Connection attempt already in progress
+02-05 18:32:01.401 28989-29059/com.chat.applozic V/FA: Connection attempt already in progress
+02-05 18:32:01.409 28989-29059/com.chat.applozic V/FA: Activity resumed, time: 117176631
+02-05 18:32:01.413 28989-29059/com.chat.applozic I/FA: Tag Manager is not found and thus will not be used
+02-05 18:32:01.415 28989-29059/com.chat.applozic D/FA: Logging event (FE): screen_view(_vs), Bundle[{firebase_event_origin(_o)=auto, firebase_screen_class(_sc)=MainActivity, firebase_screen_id(_si)=-662771395489125132}]
+02-05 18:32:01.492 28989-29059/com.chat.applozic V/FA: Connection attempt already in progress
+02-05 18:32:01.493 28989-29059/com.chat.applozic D/FA: Connected to remote service
+02-05 18:32:01.493 28989-29059/com.chat.applozic V/FA: Processing queued up service tasks: 4
+02-05 18:32:02.101 28989-29058/com.chat.applozic D/FirebaseInstanceId: topic sync succeeded
+02-05 18:32:02.147 28989-29152/com.chat.applozic I/FcmInstanceIDListener: Found Registration Id:eE3hzKdeJ7A:APA91bEU2FLg8nG-B8B4ThQqDRro_6COsbA-vR0q5WeAcoYfTH_KO9n1872ksQzgo0ZvUKzMwVQK9Sa3jl_9byteIVlCqOcbVTesJOqiXUKZueGSsTK_H3MiUyVbVueaDEk_2X9RN7Qh
+02-05 18:32:02.250 28989-28994/com.chat.applozic I/art: Do full code cache collection, code=104KB, data=125KB
+02-05 18:32:02.251 28989-28994/com.chat.applozic I/art: After code cache collection, code=77KB, data=75KB
+02-05 18:32:02.674 28989-28989/com.chat.applozic D/SystemWebChromeClient: file:///android_asset/www/build/main.js: Line 3377 : Angular is running in the development mode. Call enableProdMode() to enable the production mode.
+02-05 18:32:02.675 28989-28989/com.chat.applozic I/chromium: [INFO:CONSOLE(3377)] "Angular is running in the development mode. Call enableProdMode() to enable the production mode.", source: file:///android_asset/www/build/main.js (3377)
+02-05 18:32:02.695 28989-28989/com.chat.applozic D/SystemWebChromeClient: file:///android_asset/www/build/main.js: Line 55966 : ionViewDidLoad Welcome
+02-05 18:32:02.695 28989-28989/com.chat.applozic I/chromium: [INFO:CONSOLE(55966)] "ionViewDidLoad Welcome", source: file:///android_asset/www/build/main.js (55966)
+02-05 18:32:02.707 28989-29081/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-medium.woff2
+02-05 18:32:02.707 28989-29091/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-regular.woff2
+02-05 18:32:02.721 28989-28989/com.chat.applozic D/SystemWebChromeClient: file:///android_asset/www/build/main.js: Line 101991 : Ionic Native: deviceready event fired after 2096 ms
+02-05 18:32:02.722 28989-28989/com.chat.applozic I/chromium: [INFO:CONSOLE(101991)] "Ionic Native: deviceready event fired after 2096 ms", source: file:///android_asset/www/build/main.js (101991)
+02-05 18:32:02.723 28989-29114/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-medium.woff
+02-05 18:32:02.723 28989-29091/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-regular.woff
+02-05 18:32:02.747 28989-29114/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-medium.ttf
+02-05 18:32:02.747 28989-29091/com.chat.applozic E/AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/www/assets/fonts/roboto-regular.ttf
+02-05 18:32:02.823 28989-29126/com.chat.applozic I/App: WARNING: Back Button Default Behavior will be overridden.  The backbutton event will be fired!
+02-05 18:32:02.862 28989-29126/com.chat.applozic V/Push_Plugin: execute: action=init
+02-05 18:32:02.865 28989-29127/com.chat.applozic V/Push_Plugin: execute: data=[{"android":{"senderID":950783427743},"ios":{"alert":"true","badge":true,"sound":"false"},"windows":{},"browser":{"pushServiceURL":"http:\/\/push.api.phonegap.com\/v1\/push"}}]
+02-05 18:32:02.866 28989-29127/com.chat.applozic V/Push_Plugin: execute: jo={"senderID":950783427743}
+02-05 18:32:02.867 28989-29127/com.chat.applozic V/Push_Plugin: execute: senderID=950783427743
+02-05 18:32:02.870 28989-29127/com.chat.applozic V/Push_Plugin: onRegistered: {"registrationId":"eE3hzKdeJ7A:APA91bEU2FLg8nG-B8B4ThQqDRro_6COsbA-vR0q5WeAcoYfTH_KO9n1872ksQzgo0ZvUKzMwVQK9Sa3jl_9byteIVlCqOcbVTesJOqiXUKZueGSsTK_H3MiUyVbVueaDEk_2X9RN7Qh","registrationType":"FCM"}
+02-05 18:32:02.872 28989-29127/com.chat.applozic D/Push_Plugin: no icon option
+02-05 18:32:02.872 28989-29127/com.chat.applozic D/Push_Plugin: no iconColor option
+02-05 18:32:03.054 28989-28989/com.chat.applozic D/CordovaWebViewImpl: onPageFinished(file:///android_asset/www/index.html)
+02-05 18:32:05.169 28989-29185/com.chat.applozic I/ApplozicGcmListener: Message data:{APPLOZIC_20={"id":"924639b279bb85e5e057fa539c01a1e3","type":"APPLOZIC_20","message":"Registered Successfully","notifyUser":false,"totalUnreadCount":0,"sendAlert":false,"messageMetaData":{}}}
+02-05 18:32:05.174 28989-29185/com.chat.applozic D/MobiComPushReceiver: Received notification
+02-05 18:32:05.174 28989-29185/com.chat.applozic I/ApplozicGcmListener: Applozic notification processing...
+02-05 18:32:06.645 28989-29059/com.chat.applozic V/FA: Inactivity, disconnecting from the service
+02-05 18:32:11.413 28989-29059/com.chat.applozic V/FA: Session started, time: 117188788
+02-05 18:32:11.418 28989-29059/com.chat.applozic D/FA: Logging event (FE): session_start(_s), Bundle[{firebase_event_origin(_o)=auto, firebase_screen_class(_sc)=MainActivity, firebase_screen_id(_si)=-662771395489125132}]
+02-05 18:32:11.437 28989-29059/com.chat.applozic V/FA: Connecting to remote service
+02-05 18:32:11.445 28989-29059/com.chat.applozic D/FA: Connected to remote service
+02-05 18:32:11.445 28989-29059/com.chat.applozic V/FA: Processing queued up service tasks: 1
+02-05 18:32:16.463 28989-29059/com.chat.applozic V/FA: Inactivity, disconnecting from the service
+02-05 18:32:58.810 28989-28989/com.chat.applozic D/SystemWebChromeClient: file:///android_asset/www/build/main.js: Line 75343 : Device registered
+02-05 18:32:58.810 28989-28989/com.chat.applozic I/chromium: [INFO:CONSOLE(75343)] "Device registered", source: file:///android_asset/www/build/main.js (75343)
+02-05 18:33:00.602 28989-28989/com.chat.applozic D/SystemWebChromeClient: file:///android_asset/www/build/main.js: Line 55831 : ionViewDidLoad Login
+02-05 18:33:00.602 28989-28989/com.chat.applozic I/chromium: [INFO:CONSOLE(55831)] "ionViewDidLoad Login", source: file:///android_asset/www/build/main.js (55831)
+02-05 18:33:03.043 28989-29126/com.chat.applozic W/PluginManager: THREAD WARNING: exec() call to ApplozicCordovaPlugin.login blocked the main thread for 150ms. Plugin should use CordovaInterface.getThreadPool().
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art: Rejecting re-init on previously-failed class java.lang.Class<android.support.v4.app.JobIntentService$JobServiceEngineImpl>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/app/job/JobServiceEngine;
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void com.applozic.mobicomkit.api.conversation.ApplozicMqttIntentService.enqueueWork(android.content.Context, android.content.Intent) (ApplozicMqttIntentService.java:45)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void com.applozic.mobicomkit.api.account.user.UserClientService.clearDataAndPreference() (UserClientService.java:183)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Boolean com.applozic.mobicomkit.api.account.user.UserLoginTask.doInBackground(java.lang.Void[]) (UserLoginTask.java:53)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Object com.applozic.mobicomkit.api.account.user.UserLoginTask.doInBackground(java.lang.Object[]) (UserLoginTask.java:20)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Object android.os.AsyncTask$2.call() (AsyncTask.java:304)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.FutureTask.run() (FutureTask.java:237)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void android.os.AsyncTask$SerialExecutor$1.run() (AsyncTask.java:243)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1133)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:607)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.lang.Thread.run() (Thread.java:761)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art: Caused by: java.lang.ClassNotFoundException: Didn't find class "android.app.job.JobServiceEngine" on path: DexPathList[[zip file "/data/app/com.chat.applozic-2/base.apk", zip file "/data/app/com.chat.applozic-2/split_lib_dependencies_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_0_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_1_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_2_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_3_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_4_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_5_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_6_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_7_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_8_apk.apk", zip file "/data/app/com.chat.applozic-2/split_lib_slice_9_apk.apk"],nativeLibraryDirectories=[/data/app/com.chat.applozic-2/lib/arm, /system/lib, /vendor/lib]]
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void com.applozic.mobicomkit.api.conversation.ApplozicMqttIntentService.enqueueWork(android.content.Context, android.content.Intent) (ApplozicMqttIntentService.java:45)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void com.applozic.mobicomkit.api.account.user.UserClientService.clearDataAndPreference() (UserClientService.java:183)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Boolean com.applozic.mobicomkit.api.account.user.UserLoginTask.doInBackground(java.lang.Void[]) (UserLoginTask.java:53)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Object com.applozic.mobicomkit.api.account.user.UserLoginTask.doInBackground(java.lang.Object[]) (UserLoginTask.java:20)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at java.lang.Object android.os.AsyncTask$2.call() (AsyncTask.java:304)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.FutureTask.run() (FutureTask.java:237)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void android.os.AsyncTask$SerialExecutor$1.run() (AsyncTask.java:243)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.ThreadPoolExecutor.runWorker(java.util.concurrent.ThreadPoolExecutor$Worker) (ThreadPoolExecutor.java:1133)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.util.concurrent.ThreadPoolExecutor$Worker.run() (ThreadPoolExecutor.java:607)
+02-05 18:33:03.184 28989-29682/com.chat.applozic I/art:     at void java.lang.Thread.run() (Thread.java:761)
+02-05 18:33:03.203 28989-29682/com.chat.applozic I/RegisterUserClient: Net statustrue
+02-05 18:33:03.239 28989-29682/com.chat.applozic I/RegisterUserClient: Registration json {"appVersionCode":109,"applicationId":"3fcbc8461954c0a335a8c2fb883b816ba","authenticationTypeId":1,"deviceType":1,"displayName":"Pawan Pandey","emailVerified":true,"enableEncryption":false,"password":"5a69ca66ebd8ff0bfa7d0009","prefContactAPI":2,"roleName":"USER","roleType":3,"timezone":"Asia/Kolkata","userId":"5a69ca66ebd8ff0bfa7d0009"}
+02-05 18:33:03.248 28989-29682/com.chat.applozic D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+02-05 18:33:03.249 28989-29682/com.chat.applozic W/System: Ignoring header Device-Key because its value was null.
+02-05 18:33:05.144 28989-29682/com.chat.applozic I/HttpRequestUtils: Response: {"message":"UPDATED","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","deviceKey":"bc90529a-5bfc-451b-8ede-bdee6ebd025a","userId":"5a69ca66ebd8ff0bfa7d0009","displayName":"Pawan Pandey","lastSyncTime":1517835785484,"currentTimeStamp":1517835785322,"deactivate":false,"brokerUrl":"tcp://apps.applozic.com:8080","pricingPackage":0,"totalUnreadCount":20,"roleType":3,"metadata":{},"newUser":false}
+02-05 18:33:05.144 28989-29682/com.chat.applozic I/RegisterUserClient: Registration response is: {"message":"UPDATED","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","deviceKey":"bc90529a-5bfc-451b-8ede-bdee6ebd025a","userId":"5a69ca66ebd8ff0bfa7d0009","displayName":"Pawan Pandey","lastSyncTime":1517835785484,"currentTimeStamp":1517835785322,"deactivate":false,"brokerUrl":"tcp://apps.applozic.com:8080","pricingPackage":0,"totalUnreadCount":20,"roleType":3,"metadata":{},"newUser":false}
+02-05 18:33:05.154 28989-29682/com.chat.applozic I/Registration response: is RegistrationResponse{message='UPDATED', deviceKey='bc90529a-5bfc-451b-8ede-bdee6ebd025a', userKey='db4b662d-4eea-4a30-bff8-c325a54a2e1a', userId='5a69ca66ebd8ff0bfa7d0009', contactNumber='null', lastSyncTime=1517835785484, currentTimeStamp=1517835785322, displayName='Pawan Pandey', notificationResponse='null', brokerUrl='tcp://apps.applozic.com:8080', imageLink='null', statusMessage='null', encryptionKey='null', enableEncryption=false, pricingPackage=0}
+02-05 18:33:05.244 28989-29682/com.chat.applozic I/HttpRequestUtils: Calling url: https://apps.applozic.com/apps/customer/application/info/update
+02-05 18:33:05.271 28989-29705/com.chat.applozic I/ConversationIntent: Syncing messages service started: false
+02-05 18:33:05.274 28989-29705/com.chat.applozic I/ConversationIntent: Muted user list sync started..
+02-05 18:33:05.281 28989-29708/com.chat.applozic I/HttpRequestUtils: Calling url: https://apps.applozic.com/rest/ws/user/chat/mute/list
+02-05 18:33:05.286 28989-29706/com.chat.applozic I/HttpRequestUtils: Calling url: https://apps.applozic.com/rest/ws/message/list?startIndex=0&mainPageSize=60&&deletedGroupIncluded=true
+02-05 18:33:05.334 28989-28994/com.chat.applozic I/art: Do partial code cache collection, code=114KB, data=125KB
+02-05 18:33:05.334 28989-28994/com.chat.applozic I/art: After code cache collection, code=107KB, data=120KB
+02-05 18:33:05.334 28989-28994/com.chat.applozic I/art: Increasing code cache capacity to 512KB
+02-05 18:33:05.595 28989-29707/com.chat.applozic I/ApplozicMqttService: Connecting to mqtt...
+02-05 18:33:05.624 28989-29682/com.chat.applozic I/HttpRequestUtils: Response : "success"
+02-05 18:33:05.669 28989-28989/com.chat.applozic D/CordovaActivity: Paused the activity.
+02-05 18:33:05.671 28989-29716/com.chat.applozic V/FA: Recording user engagement, ms: 66414
+02-05 18:33:05.672 28989-29716/com.chat.applozic V/FA: Connecting to remote service
+02-05 18:33:05.676 28989-29685/com.chat.applozic I/RegisterUserClient: Registration update json {"appVersionCode":109,"applicationId":"3fcbc8461954c0a335a8c2fb883b816ba","authenticationTypeId":1,"deviceType":1,"displayName":"Pawan Pandey","emailVerified":true,"enableEncryption":false,"prefContactAPI":2,"registrationId":"eE3hzKdeJ7A:APA91bEU2FLg8nG-B8B4ThQqDRro_6COsbA-vR0q5WeAcoYfTH_KO9n1872ksQzgo0ZvUKzMwVQK9Sa3jl_9byteIVlCqOcbVTesJOqiXUKZueGSsTK_H3MiUyVbVueaDEk_2X9RN7Qh","roleName":"USER","roleType":3,"timezone":"Asia/Kolkata","userId":"5a69ca66ebd8ff0bfa7d0009"}
+02-05 18:33:05.677 28989-29716/com.chat.applozic V/FA: Activity paused, time: 117243044
+02-05 18:33:05.684 28989-29716/com.chat.applozic D/FA: Logging event (FE): user_engagement(_e), Bundle[{firebase_event_origin(_o)=auto, engagement_time_msec(_et)=66414, firebase_screen_class(_sc)=MainActivity, firebase_screen_id(_si)=-662771395489125132}]
+02-05 18:33:05.707 28989-29716/com.chat.applozic V/FA: Connection attempt already in progress
+02-05 18:33:05.766 28989-28989/com.chat.applozic W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+02-05 18:33:05.774 28989-28989/com.chat.applozic V/FA: onActivityCreated
+02-05 18:33:06.051 28989-29685/com.chat.applozic I/HttpRequestUtils: Response: {"message":"UPDATED","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","deviceKey":"bc90529a-5bfc-451b-8ede-bdee6ebd025a","userId":"5a69ca66ebd8ff0bfa7d0009","displayName":"Pawan Pandey","lastSyncTime":1517835786491,"currentTimeStamp":1517835786482,"deactivate":false,"brokerUrl":"tcp://apps.applozic.com:8080","pricingPackage":0,"totalUnreadCount":20,"roleType":3,"metadata":{},"newUser":false}
+02-05 18:33:06.054 28989-29685/com.chat.applozic I/RegisterUserClient: Registration update response: RegistrationResponse{message='UPDATED', deviceKey='bc90529a-5bfc-451b-8ede-bdee6ebd025a', userKey='db4b662d-4eea-4a30-bff8-c325a54a2e1a', userId='5a69ca66ebd8ff0bfa7d0009', contactNumber='null', lastSyncTime=1517835786491, currentTimeStamp=1517835786482, displayName='Pawan Pandey', notificationResponse='null', brokerUrl='tcp://apps.applozic.com:8080', imageLink='null', statusMessage='null', encryptionKey='null', enableEncryption=false, pricingPackage=0}
+02-05 18:33:06.071 28989-28989/com.chat.applozic D/AndroidRuntime: Shutting down VM
+02-05 18:33:06.075 28989-28989/com.chat.applozic E/AndroidRuntime: FATAL EXCEPTION: main
+                                                                   Process: com.chat.applozic, PID: 28989
+                                                                   java.lang.AbstractMethodError: abstract method "boolean com.google.android.gms.common.api.Api$zze.zzaax()"
+                                                                       at com.google.android.gms.common.api.GoogleApiClient$Builder.build(Unknown Source)
+                                                                       at com.applozic.mobicomkit.uiwidgets.conversation.activity.ConversationActivity.onCreate(ConversationActivity.java:399)
+                                                                       at android.app.Activity.performCreate(Activity.java:6672)
+                                                                       at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1140)
+                                                                       at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2612)
+                                                                       at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2724)
+                                                                       at android.app.ActivityThread.-wrap12(ActivityThread.java)
+                                                                       at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1473)
+                                                                       at android.os.Handler.dispatchMessage(Handler.java:102)
+                                                                       at android.os.Looper.loop(Looper.java:154)
+                                                                       at android.app.ActivityThread.main(ActivityThread.java:6123)
+                                                                       at java.lang.reflect.Method.invoke(Native Method)
+                                                                       at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:867)
+                                                                       at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:757)
+02-05 18:33:06.750 28989-29706/com.chat.applozic I/HttpRequestUtils: Response :{"message":[{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Number","sent":false,"delivered":false,"read":false,"createdAtTime":1517835138445,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","contentType":0,"metadata":{}}],"connectedUsers":[],"userDetails":[{"userId":"5a6c4e5a9644d905f0b06e57","userName":"Rahul Mutyalkar","connected":false,"status":0,"lastSeenAtTime":1517835651000,"createdAtTime":1517570345661,"unreadCount":17,"displayName":"Rahul Mutyalkar","deactivated":false,"connectedClientCount":0,"active":true,"lastLoggedInAtTime":1517835069349,"lastMessageAtTime":1517824644418,"roleKey":"09a9238c-1fe9-40d9-b90c-4efd090ba4a3","metadata":{},"roleType":3}],"groupFeeds":[],"conversationPxys":[],"blockedUserPxyList":{"blockedByUserList":[],"blockedToUserList":[]}}
+02-05 18:33:06.750 28989-29706/com.chat.applozic I/Conversation: Received response from server for Messages: {"message":[{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Number","sent":false,"delivered":false,"read":false,"createdAtTime":1517835138445,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","contentType":0,"metadata":{}}],"connectedUsers":[],"userDetails":[{"userId":"5a6c4e5a9644d905f0b06e57","userName":"Rahul Mutyalkar","connected":false,"status":0,"lastSeenAtTime":1517835651000,"createdAtTime":1517570345661,"unreadCount":17,"displayName":"Rahul Mutyalkar","deactivated":false,"connectedClientCount":0,"active":true,"lastLoggedInAtTime":1517835069349,"lastMessageAtTime":1517824644418,"roleKey":"09a9238c-1fe9-40d9-b90c-4efd090ba4a3","metadata":{},"roleType":3}],"groupFeeds":[],"conversationPxys":[],"blockedUserPxyList":{"blockedByUserList":[],"blockedToUserList":[]}}
+02-05 18:33:06.760 28989-29708/com.chat.applozic I/HttpRequestUtils: Response :[]
+02-05 18:33:06.760 28989-29708/com.chat.applozic I/UserClientService: Muted users list reponse : []
+02-05 18:33:06.838 28989-29706/com.chat.applozic I/HttpRequestUtils: Calling url: https://apps.applozic.com/rest/ws/user/blocked/sync?lastSyncTime=10000
+02-05 18:33:06.973 28989-29707/com.chat.applozic I/ApplozicMqttService: UserKeyString,DeviceKeyString,status:db4b662d-4eea-4a30-bff8-c325a54a2e1a,bc90529a-5bfc-451b-8ede-bdee6ebd025a,1
+02-05 18:33:07.174 28989-29706/com.chat.applozic I/HttpRequestUtils: Response :{"status":"success","generatedAt":1517835787649,"response":{"blockedByUserList":[],"blockedToUserList":[]}}
+02-05 18:33:07.194 28989-29706/com.chat.applozic I/HttpRequestUtils: Calling url: https://apps.applozic.com/rest/ws/message/list?skipRead=true&startIndex=0&pageSize=50&userId=5a6c4e5a9644d905f0b06e57&startTime=1&&deletedGroupIncluded=true
+02-05 18:33:07.674 28989-29706/com.chat.applozic I/HttpRequestUtils: Response :{"message":[{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Number","sent":false,"delivered":false,"read":false,"createdAtTime":1517835138445,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835132864","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Gst","sent":false,"delivered":false,"read":false,"createdAtTime":1517835133608,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835132864","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835113585","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Do it","sent":false,"delivered":false,"read":false,"createdAtTime":1517835114300,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835113585","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835107225","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"No you cant","sent":false,"delivered":false,"read":false,"createdAtTime":1517835107929,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835107225","contentType":0,"metadata":{}},{"key":"4-65786c31-4881-4653-8d95-267443b57ee1-1517825242404","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Hi","sent":false,"delivered":false,"read":false,"createdAtTime":1517825243127,"type":4,"source":2,"status":0,"pairedMessageKey":"5-65786c31-4881-4653-8d95-267443b57ee1-1517825242404","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824950346","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Hshd","sent":false,"delivered":false,"read":false,"createdAtTime":1517824951546,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824950346","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824937502","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Ye to","sent":false,"delivered":false,"read":false,"createdAtTime":1517824938697,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824937502","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824934980","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Jhhr","sent":false,"delivered":false,"read":false,"createdAtTime":1517824936153,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824934980","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824933750","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Nnfnf","sent":false,"delivered":false,"read":false,"createdAtTime":1517824934934,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824933750","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824932268","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Yaar","sent":false,"delivered":false,"read":false,"createdAtTime":1517824933475,"type":4,"source":2,"status":0,"pairedMessageKey":"5-f
+02-05 18:33:07.674 28989-29706/com.chat.applozic I/Conversation: Received response from server for Messages: {"message":[{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Number","sent":false,"delivered":false,"read":false,"createdAtTime":1517835138445,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835137776","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835132864","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Gst","sent":false,"delivered":false,"read":false,"createdAtTime":1517835133608,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835132864","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835113585","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Do it","sent":false,"delivered":false,"read":false,"createdAtTime":1517835114300,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835113585","contentType":0,"metadata":{}},{"key":"4-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835107225","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"No you cant","sent":false,"delivered":false,"read":false,"createdAtTime":1517835107929,"type":4,"source":2,"status":0,"pairedMessageKey":"5-1f632e1f-c87a-4b32-b579-033ca13babf6-1517835107225","contentType":0,"metadata":{}},{"key":"4-65786c31-4881-4653-8d95-267443b57ee1-1517825242404","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Hi","sent":false,"delivered":false,"read":false,"createdAtTime":1517825243127,"type":4,"source":2,"status":0,"pairedMessageKey":"5-65786c31-4881-4653-8d95-267443b57ee1-1517825242404","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824950346","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Hshd","sent":false,"delivered":false,"read":false,"createdAtTime":1517824951546,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824950346","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824937502","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Ye to","sent":false,"delivered":false,"read":false,"createdAtTime":1517824938697,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824937502","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824934980","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Jhhr","sent":false,"delivered":false,"read":false,"createdAtTime":1517824936153,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824934980","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824933750","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Nnfnf","sent":false,"delivered":false,"read":false,"createdAtTime":1517824934934,"type":4,"source":2,"status":0,"pairedMessageKey":"5-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824933750","contentType":0,"metadata":{}},{"key":"4-fb5dd11f-2b77-4088-8ad1-5fb994f68d2f-1517824932268","userKey":"db4b662d-4eea-4a30-bff8-c325a54a2e1a","to":"5a6c4e5a9644d905f0b06e57","contactIds":"5a6c4e5a9644d905f0b06e57","message":"Yaar","sent":false,"delivered":false,"read":false,"createdAtTime":1517824933475,"type":4,"source":2,"sta
+02-05 18:33:07.674 28989-29706/com.chat.applozic I/Conversation: updating server call to true
