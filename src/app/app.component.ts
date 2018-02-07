@@ -4,13 +4,13 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { Push, PushObject, PushOptions } from '@ionic-native/push';
 
-import { Welcome } from '../pages/welcome/welcome';
-
+// import { Welcome } from '../pages/welcome/welcome';
+import { Login } from '../pages/login/login'
 @Component({
   templateUrl: 'app.html'
 })
 export class MyApp {
-  rootPage: any = Welcome;
+  rootPage: any = Login;
 
   constructor(platform: Platform,
     private push: Push,
@@ -18,7 +18,7 @@ export class MyApp {
     private splashScreen: SplashScreen
   ) {
     platform.ready().then(() => {
-      this.pushPlugin()
+      // this.pushPlugin()
       // Okay, so the platform is ready and our plugins are available.
 
       // Here you can do any higher level native things you might need.
